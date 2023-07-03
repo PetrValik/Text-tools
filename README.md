@@ -1,3 +1,7 @@
+# Text-tools
+
+It was a school project. I have to create a program which will process given text with different rules.
+
 Homework assignment no. 2, Text
 ====================================
 
